@@ -44,7 +44,7 @@
     "main.js"
   ],
   "dependencies": {
-    "@jridgewell/source-map": "^0.3.3",
+    "@jridgewell/source-map": "^0.3.6",
     "acorn": "^8.8.2",
     "commander": "^2.20.0",
     "source-map-support": "~0.5.20"
